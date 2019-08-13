@@ -13,7 +13,7 @@
 #include <stdint.h>
 #include <stdlib.h>
 #include <string.h>
-#include "gpuc.implementation.h"
+#include "gpuc.inl"
 #include "implementation/array/array_tests.c"
 #include "argv.h"
 
